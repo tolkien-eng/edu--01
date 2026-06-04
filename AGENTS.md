@@ -41,7 +41,7 @@ Obsidian vault：`C:\Users\tolkien\Documents\Secondbrain`
 
 入口檔：待開發
 設定檔：待開發
-部署位置：GitHub Pages（`https://tolkien-eng.github.io/edu--01`）
+部署位置：GitHub Pages（`https://tolkien-eng.github.io/edu--01/`）
 
 ## 不要做
 
